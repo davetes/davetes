@@ -1,13 +1,8 @@
-👋 Hi, I'm Tesfahun Kere
-👨‍💻 Full-Stack Developer specializing in React, Node.js, and cross-platform mobile applications.
+                                👋 Hi, I'm Tesfahun Kere
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=davetes&show_icons=true&theme=radical)
 
-🌱 Currently Exploring: Advanced flutter techniques and backend development with Express.js.
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davetes&layout=compact&langs_count=8&theme=dracula)
 
-💼 Open to Collaborate: Looking for opportunities in open-source projects and innovative tech solutions.
-
-📫 Reach Me At:davae2324@gmail.com | https://www.linkedin.com/in/tesfahun-kere-37000a29a
-
-⚡ Fun Fact: Passionate about blending technology with creativity to build user-centric applications.
 
 <!---
 davetes/davetes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

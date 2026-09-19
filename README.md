@@ -65,7 +65,7 @@ Computer Science graduate from Addis Ababa University with proven experience bui
 
 ## 📂 Featured Projects
 
-### 📄 Addis Ababa University Journal Management System (SINET) – Live Production System
+### 📄 Addis Ababa University Journal Management System (SINET) - Live Production System
 🔗 https://sinet.aau.edu.et
 
 A live journal management system for Addis Ababa University used by researchers and academics.
@@ -76,7 +76,7 @@ A live journal management system for Addis Ababa University used by researchers 
 
 ---
 
-### 🤖 Telegram Mini App & Admin Panel – Melatech
+### 🤖 Telegram Mini App & Admin Panel - Melatech
 🔗 https://t.me/melatech_bot
 
 A full Telegram mini app with web-based admin panel.
@@ -98,7 +98,7 @@ A modern corporate website for a multi-division trading company.
 
 ---
 
-### 🔥 SDN Firewall & Routing Automation – INSA Final Project
+### 🔥 SDN Firewall & Routing Automation - INSA Final Project
 
 A programmable SDN solution automating firewall and routing rules.
 
@@ -131,4 +131,3 @@ I am open to opportunities in full-stack development, backend engineering, and A
 
 ---
 
-⭐️ From [tesfahun-kere](https://github.com/tesfahun-kere)

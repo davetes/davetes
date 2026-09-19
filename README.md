@@ -46,12 +46,12 @@ Computer Science graduate from Addis Ababa University with proven experience bui
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-- **LLMs & Generative AI** – Integration of AI APIs and models
-- **Prompt Engineering** – Designing effective prompts for AI systems
-- **RAG (Retrieval-Augmented Generation)** – Building AI assistants with knowledge retrieval
-- **Embeddings & Semantic Search** – Vector-based search and recommendation
-- **Vector Databases** – Pinecone, Weaviate, ChromaDB, FAISS
-- **AI Agents & Automation** – Building intelligent workflows and chatbots
+- **LLMs & Generative AI** - Integration of AI APIs and models
+- **Prompt Engineering** - Designing effective prompts for AI systems
+- **RAG (Retrieval-Augmented Generation)** - Building AI assistants with knowledge retrieval
+- **Embeddings & Semantic Search** -  Vector-based search and recommendation
+- **Vector Databases** - Pinecone, Weaviate, ChromaDB, FAISS
+- **AI Agents & Automation** - Building intelligent workflows and chatbots
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -108,16 +108,6 @@ A programmable SDN solution automating firewall and routing rules.
 
 ---
 
-## 📊 GitHub Stats
-
-![Tesfahun's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tesfahun-kere&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tesfahun-kere&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tesfahun-kere&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: tesfa4706@gmail.com
